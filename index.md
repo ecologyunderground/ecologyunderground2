@@ -3,7 +3,7 @@
 
 
 # **Ecology Underground 2020** 
-## **Information**
+
 
 ## **Registration**
 See link here to register: https://docs.google.com/spreadsheets/d/1dwLkmQP6c9xvZd5qpYZ3mZL2W6kjaOS5gBFtLHGAu6E/edit#gid=0
@@ -13,7 +13,7 @@ Registration is free.
 ## **Itinerary**
 
 ### Tuesday, August 4th
-Time (EDT): 1:00 to 4:45 pm
+Time (EDT): 12:20 to 4:45 pm
 
 Sessions:
 
@@ -31,9 +31,9 @@ Session organization:
 
 State of the field to set the stage
 
-1:00pm- 1:05: Introduction 
+12:30pm- 12:40: Introduction 
 
-1:05pm- 1:15pm: Star vision talk (tbd)
+12:40pm- 1:15pm: Star vision talk (tbd)
 
 1:15pm- 2.15 pm - INS 20
 
