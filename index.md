@@ -13,7 +13,7 @@ Registration is free.
 ## **Itinerary**
 
 ### Tuesday, August 4th
-Time (EDT): 12:20 to 4:45 pm
+Time (EDT): 12:30 to 4:45 pm
 
 Sessions:
 
