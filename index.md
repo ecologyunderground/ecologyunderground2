@@ -36,6 +36,7 @@ Session organization:
 1:05pm- 1:15 pm: Introduction of the Tuesday 3 sessions
 
 1:15pm- 2.15 pm: INS 20
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:15- 1:20 pm: Colleen Iversen 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:20- 1:25 pm: Amy Zanne
