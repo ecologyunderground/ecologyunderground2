@@ -8,7 +8,7 @@
 ## **Registration**
 See link here to register: https://forms.gle/LbPYEcyAjWoLpEnb9
 
-Registration is free.
+Registration is free. Once you register you will receive a link for the events on August 4th and 5th.
 
 ## **Itinerary**
 
@@ -134,7 +134,9 @@ Afternoon: from 1.00 to 2.30 pm
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.25- 1.30 pm: Colleen M. Iversen
 
   1.30- 2 pm: Breakouts/discussion
-  
+
+# **Early Career Vision Paper**
+We solicit essays not to exceed 300 words for your vision of the future of belowground ecology. The author of the winning essay will receive a cash prize and be invited to contribute to a publication in New Phytologist. To enter you must be an early career researcher (within 8 years of receiving your PhD). Please email your essay with the subject line My Vision for Belowground Ecology to ecounderground@gmail.com by July 31st to be eligible.
 
 # **Special Thanks to our Sponsors**
   
