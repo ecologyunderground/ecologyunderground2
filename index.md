@@ -37,14 +37,23 @@ Session organization:
 
 1:15pm- 2.15 pm: INS 20
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:15- 1:20 pm: Colleen Iversen 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:20- 1:25 pm: Amy Zanne
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:25- 1:30 pm: Stephanie Kivlin
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:30- 1:35 pm: Kelly Ramirez
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:35- 1:40 pm: Erin Cameron
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:40- 1:45 pm: Colin Averill
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:45- 1:50 pm: Ben Bond-Lamberty
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:50- 1:55 pm: Samantha Weintraub
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:55- 2:00 pm: Benjamin Sulman
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2:00- 2:15 pm: Discussion
 
 (15min break)
