@@ -139,4 +139,6 @@ Afternoon: from 1.00 to 2.30 pm
 # **Special Thanks to our Sponsors**
   
 
+![](https://github.com/ecologyunderground/ecologyunderground/blob/master/NewPhyt.jpg?raw=true)
+![](https://github.com/ecologyunderground/ecologyunderground/blob/master/ORISE.svg?raw=true)
 
