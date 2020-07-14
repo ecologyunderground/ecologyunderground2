@@ -31,7 +31,7 @@ Session organization:
 
 ?- ? +5min: Introduction of 2 days agenda
 
-?- 1:05 pm: Star vision speech (Asmeret Asefaw Berhe, to be confirmed)
+?- 1:05 pm: Star vision speech (to be confirmed)
 
 1:05pm- 1:15 pm: Introduction of the Tuesday 3 sessions
 
